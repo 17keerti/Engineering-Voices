@@ -383,6 +383,15 @@ p {
     letter-spacing: 0.5px;
 }
 
+.stat-goal {
+    color: #667eea;
+    font-size: 0.75rem;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 0.5rem;
+    display: block;
+}
+
 .about-image {
     display: flex;
     justify-content: center;
